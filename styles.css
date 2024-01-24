@@ -5,6 +5,8 @@ body{
 }
 
 table, th, tr, td{
+	padding:5px;
+	justify-content:center;
 
 	text-align:center;
 	
